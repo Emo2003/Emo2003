@@ -39,9 +39,10 @@
   <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-  <a href="[https://www.facebook.com/your-facebook-profile](https://www.facebook.com/share/1b7ADSXUFA/)"><img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.facebook.com/your-facebook-profile">
+  <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+</a>
 </p>
-
 
 
 
