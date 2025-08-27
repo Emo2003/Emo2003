@@ -10,11 +10,13 @@
 
 ## 🛠 Tech Stack  
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+</p>
 
 ---
 
@@ -31,10 +33,15 @@
 
 ---
 
-## 📫 Contact Me  
+## 🌐 Contact Me  
 
 <p align="center">
-  <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/emo00000003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
 </p>
+
+---
+## 👀 Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Emo2003&color=1E90FF&style=for-the-badge)
