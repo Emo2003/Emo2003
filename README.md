@@ -41,7 +41,10 @@
   <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
 </p>
 
----
+
+
 ## 👀 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Emo2003&color=1E90FF&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emo2003&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
+</p>
