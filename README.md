@@ -23,13 +23,14 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight" height="150"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=false" height="150"/>
+  ![Streak Stats](https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=false)
 </p>
+
 
 ---
 
