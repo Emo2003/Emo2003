@@ -31,8 +31,6 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=radical)
 
-<!-- GitHub Streak -->
-![Streak Stats](https://streak-stats.demolab.com/?user=Emo2003&theme=radical)
 
 
 ## 🌐 Contact Me  
