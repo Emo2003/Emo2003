@@ -22,9 +22,18 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emo2003)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003)
-![Streak Stats](https://streak-stats.demolab.com/?user=Emo2003)
+<!-- Animated typing effect for title -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=1E90FF&width=435&lines=GitHub+Stats)
+
+<!-- GitHub Stats with dynamic numbers -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=radical&count_private=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=radical)
+
+<!-- GitHub Streak -->
+![Streak Stats](https://streak-stats.demolab.com/?user=Emo2003&theme=radical)
+
 
 ## 🌐 Contact Me  
 
