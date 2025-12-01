@@ -22,10 +22,18 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=radical&count_private=true&token=YOUR_TOKEN)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=radical&token=YOUR_TOKEN)
-![Streak Stats](https://streak-stats.demolab.com/?user=Emo2003&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=false" />
+</p>
+
+
+
+---
 
 ## 🌐 Contact Me  
 
@@ -33,13 +41,19 @@
   <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://www.facebook.com/share/1b7ADSXUFA/"><img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.facebook.com/share/1b7ADSXUFA/">
+  <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+</a>
+
 </p>
 
----
+
 
 ## 👀 Profile Views  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emo2003&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+
+the GitHub Stats don't load
