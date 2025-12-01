@@ -23,15 +23,17 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight" />
+  <!-- Animated Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=radical&count_private=true&hide_title=false&line_height=25" alt="GitHub Stats"/>
+  
+  <!-- Animated Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=false" />
+  <!-- Animated Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Emo2003&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
-
-
 
 ---
 
@@ -41,13 +43,10 @@
   <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-<a href="https://www.facebook.com/share/1b7ADSXUFA/">
-  <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
-</a>
-
+  <a href="https://www.facebook.com/share/1b7ADSXUFA/"><img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/></a>
 </p>
 
-
+---
 
 ## 👀 Profile Views  
 
