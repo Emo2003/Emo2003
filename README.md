@@ -22,20 +22,9 @@
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <!-- Animated Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=radical&count_private=true&hide_title=false&line_height=25" alt="GitHub Stats"/>
-  
-  <!-- Animated Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Animated Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Emo2003&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emo2003)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003)
+![Streak Stats](https://streak-stats.demolab.com/?user=Emo2003)
 
 ## 🌐 Contact Me  
 
