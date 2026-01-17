@@ -28,8 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight" />
 </p>
+
 
 
 
