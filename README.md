@@ -23,12 +23,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <!-- Using raw.githack.com as CDN -->
+  <img src="https://raw.githack.com/Emo2003/Emo2003/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emo2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Emo2003&theme=github&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
