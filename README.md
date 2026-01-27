@@ -20,30 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Emo2003&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <!-- StackOverflow-style stats -->
-  <img src="https://github-readme-stats-axpwmfcg1.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-axpwmfcg1.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Snake Game Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-
-
-
----
 
 ## 🌐 Contact Me  
 
