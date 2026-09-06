@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=1E90FF&width=500&lines=I'm+Eng.+Eman+Medhat;Flutter+Developer)
-## 🎓 About Me
+## About Me
 
-* 🎓 Computer Science Graduate — Faculty of Computers and Information, Menoufia University
-* 🚀 Software Engineer & Mobile Application Developer specialized in Flutter & Dart
-* 💡 Passionate about Clean Architecture, State Management (BLoC/Cubit), and AI-integrated mobile solutions
-* 🌱 Actively seeking opportunities to grow as a Mobile / Flutter Developer
+* Computer Science Graduate — Faculty of Computers and Information, Menoufia University
+*  Mobile Application Developer specialized in Flutter & Dart
+*  Passionate about Clean Architecture, State Management (BLoC/Cubit), and AI-integrated mobile solutions
+*  Actively seeking opportunities to grow as a Mobile / Flutter Developer
 
 ---
 
