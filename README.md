@@ -20,10 +20,10 @@
 
 ###  About Me
 
- **Computer Science Graduate** from the *Faculty of Computers and Information, Menoufia University*.  
- **Mobile Application Developer** specializing in **Flutter & Dart** to build smooth, high-performance cross-platform applications.  
- Passionate about **Clean Architecture**, **State Management (BLoC/Cubit)**, **REST APIs Integration**, and modern **AI-driven mobile solutions**.  
- Actively seeking impactful opportunities to grow and contribute as a **Mobile / Flutter Developer**.
+- **Computer Science Graduate** from the *Faculty of Computers and Information, Menoufia University*.  
+- **Mobile Application Developer** specializing in **Flutter & Dart** to build smooth, high-performance cross-platform applications.  
+- Passionate about **Clean Architecture**, **State Management (BLoC/Cubit)**, **REST APIs Integration**, and modern **AI-driven mobile solutions**.  
+- Actively seeking impactful opportunities to grow and contribute as a **Mobile / Flutter Developer**.
 
 ---
 
