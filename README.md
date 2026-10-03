@@ -2,6 +2,8 @@
 
  <!-- Developer Coding Banner GIF -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ293a3ZmazduZXQ5MHFwd3U5Y2dueGg4Z3NwOThoam40eHByNDFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="550" alt="Coding GIF" style="border-radius: 12px; margin: 15px 0;"/>
+
+ ---
 ## About Me
 
 * Computer Science Graduate — Faculty of Computers and Information, Menoufia University
