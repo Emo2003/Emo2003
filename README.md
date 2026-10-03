@@ -74,7 +74,7 @@
 
   <a href="mailto:emanmedhat0099@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/emo-c7g77i366"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/eman-medhat-704008401"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/emo00000003"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
