@@ -1,8 +1,11 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=1E90FF&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Eman+Medhat" alt="Typing SVG">
-</p>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Eng.+Eman+Medhat;Flutter+%26+Mobile+App+Developer;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Open+to+Junior+Roles+%26+Internships" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
