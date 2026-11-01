@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Eng.+Eman+Medhat;Flutter+%26+Mobile+App+Developer;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Open+to+Junior+Roles+%26+Internships" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://media4.giphy.com/media/paoX8smVvbggCXLu80/giphy.gif" width="150" alt="Coding animation" />
-
 <br/><br/>
 
 **Computer Science Graduate | Flutter Developer | Mobile App Developer**
@@ -38,13 +34,13 @@ I have implemented **Stripe payments and Cash on Delivery** in an e-commerce app
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,cs&theme=dark" alt="Flutter, Dart, Java, C++ and C#" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,cs&theme=dark&perline=5" alt="Flutter, Dart, Java, C++ and C#" />
 
 <br/><br/>
 
 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Git, GitHub, Android Studio and VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark&perline=4" alt="Git, GitHub, Android Studio and VS Code" />
 
 <br/><br/>
 
@@ -54,7 +50,7 @@ I have implemented **Stripe payments and Cash on Delivery** in an e-commerce app
 <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-4682B4?style=for-the-badge" alt="BLoC and Cubit" />
 <img src="https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Dio-00599C?style=for-the-badge" alt="Dio" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge" alt="Stripe" />
 
 </div>
 
@@ -79,11 +75,11 @@ I have implemented **Stripe payments and Cash on Delivery** in an e-commerce app
 <div align="center">
 
 <a href="https://github.com/Emo2003">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/Emo2003">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=html,css" width="41%" alt="Most used programming languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=html,css" height="165" alt="Most used programming languages" />
 </a>
 
 <br/><br/>
@@ -100,7 +96,11 @@ I have implemented **Stripe payments and Cash on Delivery** in an e-commerce app
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
