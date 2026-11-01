@@ -2,10 +2,13 @@
 
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Eng.+Eman+Medhat;Flutter+%26+Mobile+App+Developer;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Open+to+Junior+Roles+%26+Internships" alt="Typing SVG" />
+  </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Eng.+Eman+Medhat;Flutter+%26+Mobile+App+Developer;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Open+to+Junior+Roles+%26+Internships" alt="Typing SVG" />
-</a>
+  <br/><br/>
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ293a3ZmazduZXQ5MHFwd3U5Y2dueGg4Z3NwOThoam40eHByNDFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="160" alt="Coding GIF" />
 
 <br/><br/>
 
