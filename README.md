@@ -1,6 +1,5 @@
 <div align="center">
 
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Eng.+Eman+Medhat;Flutter+%26+Mobile+App+Developer;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Open+to+Junior+Roles+%26+Internships" alt="Typing SVG" />
   </a>
@@ -20,7 +19,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## About Me
 
@@ -36,7 +35,7 @@ I care about writing clean, scalable, and maintainable code, and I am especially
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## Tech Stack & Tools
 
@@ -61,7 +60,7 @@ I care about writing clean, scalable, and maintainable code, and I am especially
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## Technical Skills
 
@@ -79,7 +78,26 @@ I care about writing clean, scalable, and maintainable code, and I am especially
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
+
+## Featured Projects
+
+<div align="center">
+
+### Ema Store: E-Commerce App
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/BLoC%2FCubit-4682B4?style=flat-square" alt="BLoC"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-1E90FF?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/REST%20APIs-008080?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+
+</div>
+
+- Built product browsing, cart, and checkout features.
+- Integrated Stripe payments and cash-on-delivery options.
+- Used feature-based architecture and REST API integration.
 
 <div align="center">
 
@@ -89,7 +107,7 @@ I care about writing clean, scalable, and maintainable code, and I am especially
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## GitHub Stats
 
@@ -102,13 +120,23 @@ I care about writing clean, scalable, and maintainable code, and I am especially
 
   <img src="https://streak-stats.demolab.com?user=Emo2003&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="60%"/>
 
-  <br/><br/>
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emo2003&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+---
+
+## Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Emo2003/Emo2003/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## Connect With Me
 
@@ -122,7 +150,5 @@ I care about writing clean, scalable, and maintainable code, and I am especially
   <a href="https://www.linkedin.com/in/eman-medhat-704008401"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/emo00000003"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.facebook.com/share/19nwsGSbYA/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-
-  <br/><br/>
 
 </div>
