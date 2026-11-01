@@ -83,10 +83,6 @@ I have implemented **Stripe payments and Cash on Delivery** in an e-commerce app
   <img src="https://github-stats-extended.vercel.app/api?username=Emo2003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub statistics" />
 </a>
 
-<a href="https://github.com/Emo2003">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emo2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=html,css" height="165" alt="Most used programming languages" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/Emo2003">
